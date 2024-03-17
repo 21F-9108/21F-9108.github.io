@@ -1,0 +1,14 @@
+body{
+    background-image:url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    color: azure;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.about{
+    margin-top: 100px;
+    margin-left: 200px;
+}
